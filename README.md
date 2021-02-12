@@ -1,7 +1,7 @@
 # Integrantes
 
-*Juan Felipe Serrano - j.serrano@uniandes.edu.co - 201921654
-*Cristian Camilo Cortes - cc.cortesm1@uniandes.edu.co - 202011908
+* Juan Felipe Serrano - j.serrano@uniandes.edu.co - 201921654
+* Cristian Camilo Cortes - cc.cortesm1@uniandes.edu.co - 202011908
 
 -------------------------
 
